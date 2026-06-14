@@ -30,10 +30,12 @@ This is a minor update to WaveSteward.
 > So, when doing the farming for Residual Lights on the Eastern Continent, please perform it on one toon at a time.
 >
 > In a further release, a solution to capture this problem will be included.
+{: .tip}
 
 > [!CAUTION]
 >
 > Due to changes in WaveSteward's Daily tab, please verify your settings there, as some of your dailies may have shifted. I tried to avoid it as much as possible.
+{: .tip}
 
 ## Things in the pipeline
 
@@ -68,6 +70,7 @@ Please be aware of the following points when using the WaveSteward.
 > But users doing a fresh install could not bring the 32-bit client to life using the provided patch files.
 >
 > A new set of patch files can be obtained if needed.
+{: .tip}
 
 2. When running 32-bit, please make sure the following important configurations are in place
 
