@@ -2,20 +2,21 @@
 title: The WaveSteward Evolution
 description: This is where info about the new release for WaveSteward is shared.
 ---
-## New in this release 1.9-B - 16/06/2026
+## "Robin Hood and his Merry Men."
 
-### "Robin Hood and his Merry Men."
+### New in this release 1.9-B - 16/06/2026
 
 This is a minor update to WaveSteward.
 
 -----
 
+## Added
 
-      None for now.
+      Nothing for now.
 
 -----
 
-##### Modified
+## Modified
 
 1. **[Update]** -- Almost 1 Mb was shaved off the WaveSteward application by optimisation of its logic. So, faster loading and less memory usage.
 2. **[Update]** -- 
@@ -52,7 +53,6 @@ This is a minor update to WaveSteward.
 
 -----
 
->>>>>>> origin/main
 ## Dreams
 
 1. Ability to predict the complete set of bosses and mobs in the WM instance. (We are getting there slowly...)
@@ -95,8 +95,3 @@ Please be aware of the following points when using the WaveSteward.
 ## Big thanks
 
 Big thanks to the people sending in bug reports, wishes and tips.
----
-
-
------
-
