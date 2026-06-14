@@ -1,26 +1,23 @@
 ---
 title: The WaveSteward Evolution
-description: This is where info about the new releases for WaveSteward are shared.
+description: This is where info about the new release for WaveSteward is shared.
 ---
-On this page you will find release notes, and what is coming...
-
 ## New in this release 1.9-B - 16/06/2026
 
 ### "Robin Hood and his Merry Men."
 
 This is a minor update to WaveSteward.
-
+===
 ##### Added
 
-​	None for now.
+      None for now.
 
+===
 ##### Modified
 
 1. **[Update]** -- Almost 1 Mb was shaved off the WaveSteward application by optimisation of its logic. So, faster loading and less memory usage.
 2. **[Update]** -- 
 
-
- 
 > **WARNING**
 >
 > When running multiple clients and WaveStewards while doing the Eastern Continent farming, it was noticed that during the Residual Lights farming, it happens that one specific Residual Light in the F zone is not collected as the character was killed.
@@ -36,7 +33,7 @@ This is a minor update to WaveSteward.
 >
 > Due to changes in WaveSteward's Daily tab, please verify your settings there, as some of your dailies may have shifted. I tried to avoid it as much as possible.
 {: .warning}
-
+---
 ## Things in the pipeline
 
 1. Easier update routine
@@ -47,7 +44,7 @@ This is a minor update to WaveSteward.
 3. Ability to interrupt WaveSteward without requiring the user to close the application.
 4. Extend WaveSteward so that Teleport Stones are no longer an obligation to move through and between the maps.
 5. Possible material dig spamming.
-
+---
 ## Dreams
 
 1. Ability to predict the complete set of bosses and mobs in the WM instance. (We are getting there slowly...)
@@ -56,7 +53,7 @@ This is a minor update to WaveSteward.
    Although I know a couple of people are already sweating on it, I don't want to add my sweat to it. And secondly, 64-bit seems rather laggy and more rollercoaster-y due to rubberbanding.
 
 But OK, still dreams, so don't ask when...
-
+---
 ## Important Information
 
 Please be aware of the following points when using the WaveSteward.
@@ -82,11 +79,9 @@ Please be aware of the following points when using the WaveSteward.
 3. WaveSteward often uses the Teleport Stones, which are available in the normal and event shops.
 
 4. And just to be clear, WaveSteward does not make the viewer crash. Often, when it crashes, it originates from settings in your PWI client.
-
+---
 ## Big thanks
 
 Big thanks to the people sending in bug reports, wishes and tips.
+---
 
------
-
-## 
