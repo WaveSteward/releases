@@ -4,8 +4,6 @@ description: This is where info about the new releases for WaveSteward are share
 ---
 On this page you will find release notes, and what is coming...
 
-[Latest Release](https://discord.com/channels/590290574192541726/1479193804840898752/1513193756495446207){:target="_blank" rel="noopener noreferrer"}
-
 ## New in this release 1.9-B - 16/06/2026
 
 ### "Robin Hood and his Merry Men."
@@ -22,9 +20,20 @@ This is a minor update to WaveSteward.
 2. **[Update]** -- 
 
 
-##### A very important remark -- To keep in mind. :
 
-Due to changes in WaveSteward's Daily tab, please verify your settings there, as some of your dailies may have shifted. I tried to avoid it as much as possible.
+> [!Warning]
+>
+> When running multiple clients and WaveStewards while doing the Eastern Continent farming, it was noticed that during the Residual Lights farming, it happens that one specific Residual Light in the F zone is not collected as the character was killed.
+>
+> This is due to a lag in the PWI Client and is not related to WaveSteward.
+>
+> So, when doing the farming for Residual Lights on the Eastern Continent, please perform it on one toon at a time.
+>
+> In a further release, a solution to capture this problem will be included.
+
+> [!IMPORTANT]
+>
+> Due to changes in WaveSteward's Daily tab, please verify your settings there, as some of your dailies may have shifted. I tried to avoid it as much as possible.
 
 ## Things in the pipeline
 
@@ -74,3 +83,7 @@ Please be aware of the following points when using the WaveSteward.
 ## Big thanks
 
 Big thanks to the people sending in bug reports, wishes and tips.
+
+-----
+
+## 
