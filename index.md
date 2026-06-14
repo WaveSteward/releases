@@ -21,7 +21,7 @@ This is a minor update to WaveSteward.
 
 
 
-> [!Warning]
+> [!WARNING]
 >
 > When running multiple clients and WaveStewards while doing the Eastern Continent farming, it was noticed that during the Residual Lights farming, it happens that one specific Residual Light in the F zone is not collected as the character was killed.
 >
@@ -31,7 +31,7 @@ This is a minor update to WaveSteward.
 >
 > In a further release, a solution to capture this problem will be included.
 
-> [!IMPORTANT]
+> [!CAUTION]
 >
 > Due to changes in WaveSteward's Daily tab, please verify your settings there, as some of your dailies may have shifted. I tried to avoid it as much as possible.
 
@@ -61,7 +61,7 @@ Please be aware of the following points when using the WaveSteward.
 
 1. WaveSteward is designed to be used with a 32-bit client of PerfectWorld International. Although PWI no longer supports 32-bit, and the default installation from scratch no longer includes the application as 32-bit, it is still possible to extend the installation with a 32-bit client.
 
-   > [!Important]
+   > [!IMPORTANT]
    >
    > With the release of PWI for the Eastern Continent, changes were made to the files required for the 32-bit client. People who had the 32-bit client files installed before this update would have a perfect working solution.
    >
