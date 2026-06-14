@@ -30,7 +30,7 @@ This is a minor update to WaveSteward.
 > So, when doing the farming for Residual Lights on the Eastern Continent, please perform it on one toon at a time.
 >
 > In a further release, a solution to capture this problem will be included.
-{: .tip}
+{: .warning}
 
 > **CAUTION**
 >
