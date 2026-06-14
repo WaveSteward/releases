@@ -50,3 +50,10 @@ blockquote.warning {
   padding: 0.75rem 1rem;
   background: #b6afa6;
 }
+
+.markdown-body blockquote.tip,
+blockquote.info {
+  border-left: 4px solid #1d1ae2;
+  padding: 0.75rem 1rem;
+  background: #c0c0bf;
+}
