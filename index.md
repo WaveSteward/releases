@@ -49,7 +49,6 @@ This is a minor update to WaveSteward.
 3. Ability to interrupt WaveSteward without requiring the user to close the application.
 4. Extend WaveSteward so that Teleport Stones are no longer an obligation to move through and between the maps.
 5. Possible material dig spamming.
-<<<<<<< HEAD
 
 -----
 
@@ -59,6 +58,8 @@ This is a minor update to WaveSteward.
 2. Continue revamping the historically overloaded screens, which is still ongoing.
 3. A 64-bit WaveSteward... 
    Although I know a couple of people are already sweating on it, I don't want to add my sweat to it. And secondly, 64-bit seems rather laggy and more rollercoaster-y due to rubberbanding.
+   And an additional update: Been looking at 64-bit, and one of the main points is that the say the code injection can be done for the skills is different because of a protection brought in by the developers of PWI.
+   It should be possible to circumbent this, but not achieved yet.
 
 But OK, still dreams, so don't ask when...
 
