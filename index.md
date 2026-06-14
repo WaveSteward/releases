@@ -35,7 +35,7 @@ This is a minor update to WaveSteward.
 > **CAUTION**
 >
 > Due to changes in WaveSteward's Daily tab, please verify your settings there, as some of your dailies may have shifted. I tried to avoid it as much as possible.
-{: .tip}
+{: .warning}
 
 ## Things in the pipeline
 
