@@ -4,7 +4,7 @@ description: This is where info about the new releases for WaveSteward are share
 ---
 On this page you will find release notes, and what is coming...
 
-[Latest Release]([(https://discord.com/channels/590290574192541726/1479193804840898752/1513193756495446207)])
+[Latest Release](https://discord.com/channels/590290574192541726/1479193804840898752/1513193756495446207){:target="_blank" rel="noopener noreferrer"}
 
 <ul>
   {% for post in site.posts %}
