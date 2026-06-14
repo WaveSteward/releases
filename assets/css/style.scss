@@ -1,6 +1,9 @@
 ---
 ---
 
+$header-bg-color: #1A1F2E !default;
+$header-bg-color-secondary: #242938 !default;
+
 @import "{{ site.theme }}";
 
 .header-content {
