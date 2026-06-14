@@ -61,13 +61,13 @@ Please be aware of the following points when using the WaveSteward.
 
 1. WaveSteward is designed to be used with a 32-bit client of PerfectWorld International. Although PWI no longer supports 32-bit, and the default installation from scratch no longer includes the application as 32-bit, it is still possible to extend the installation with a 32-bit client.
 
-   > [!CAUTION]
-   >
-   > With the release of PWI for the Eastern Continent, changes were made to the files required for the 32-bit client. People who had the 32-bit client files installed before this update would have a perfect working solution.
-   >
-   > But users doing a fresh install could not bring the 32-bit client to life using the provided patch files.
-   >
-   > A new set of patch files can be obtained if needed.
+> [!CAUTION]
+>
+> With the release of PWI for the Eastern Continent, changes were made to the files required for the 32-bit client. People who had the 32-bit client files installed before this update would have a perfect working solution.
+>
+> But users doing a fresh install could not bring the 32-bit client to life using the provided patch files.
+>
+> A new set of patch files can be obtained if needed.
 
 2. When running 32-bit, please make sure the following important configurations are in place
 
