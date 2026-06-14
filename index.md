@@ -20,7 +20,7 @@ This is a minor update to WaveSteward.
 2. **[Update]** -- 
 
 
-
+ 
 > **WARNING**
 >
 > When running multiple clients and WaveStewards while doing the Eastern Continent farming, it was noticed that during the Residual Lights farming, it happens that one specific Residual Light in the F zone is not collected as the character was killed.
