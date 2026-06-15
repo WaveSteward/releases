@@ -12,14 +12,14 @@ This is a minor update to WaveSteward.
 
 ## Added
 
-      Nothing for now.
+1. Ability to define if the Life Hunter Spam and Pangu Life Hunter Spam need to start with a triple spark automatically, and if that spark needs to be repeated each time enough Chi is available.
 
 -----
 
 ## Modified
 
 1. **[Update]** -- Almost 1 Mb was shaved off the WaveSteward application by optimisation of its logic. So, faster loading and less memory usage.
-2. **[Bug]** -- When running WaveSteward and saving HotKeys, these could fail to save because of the processing speed, resulting in one write activity locking the file up and not releasing it before the next write had to happen. a small 10 msecs had to be included allowing each transaction to happen correctly.
+2. **[Bug]** -- When running WaveSteward and saving HotKeys, these could fail to save because of the processing speed, resulting in one write activity locking the file up and not releasing it before the next write had to happen. A small wait of 1 msecs had to be included allowing each transaction to happen correctly.
 
 > **WARNING**
 >
