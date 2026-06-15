@@ -14,6 +14,8 @@ This is a minor update to WaveSteward.
 
 1. Ability to define if the Life Hunter Spam and Pangu Life Hunter Spam need to start with a triple spark automatically, and if that spark needs to be repeated each time enough Chi is available.
    For this in the Info >> Settings a number of radio nuttons were added.
+   ![Release_pic_1]([(https://wavesteward.github.io/releases/assets/images/Release_pic_1.png)])
+   ![Release_pic_2]([(https://wavesteward.github.io/releases/assets/images/Release_pic_2.png)])
 
 -----
 
