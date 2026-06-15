@@ -16,6 +16,8 @@ This is a minor update to WaveSteward.
    For this in the Info >> Settings a number of radio nuttons were added.
    ![Release_pic_1](/releases/assets/images/Release_pic_1.png)
    ![Release_pic_2](/releases/assets/images/Release_pic_2.png)
+2. 
+
 
 -----
 
