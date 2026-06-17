@@ -16,7 +16,7 @@ This is a minor update to WaveSteward.
    For this in the Info >> Settings a number of radio nuttons were added.
    ![Release_pic_1](/releases/assets/images/Release_pic_1.png)
    ![Release_pic_2](/releases/assets/images/Release_pic_2.png)
-2. 
+2. Preparation for the automated update -- Release window base implemented.
 
 
 -----
@@ -25,6 +25,7 @@ This is a minor update to WaveSteward.
 
 1. **[Update]** -- Almost 1 Mb was shaved off the WaveSteward application by optimisation of its logic. So, faster loading and less memory usage.
 2. **[Bug]** -- When running WaveSteward and saving HotKeys, these could fail to save because of the processing speed, resulting in one write activity locking the file up and not releasing it before the next write had to happen. A small wait of 1 msecs had to be included allowing each transaction to happen correctly.
+3. **[Bug]** -- Sometimes the build of the notification window was happening on the main window. This should be sorted out now so it no longer happens.
 
 > **WARNING**
 >
